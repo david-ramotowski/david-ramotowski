@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David Ramotowski
+- 👋 Hi, I’m David Ramotowski, currently working on a PhD in Civil and Environmental Engineering at the University of Iowa.
 - 👀 I’m interested in learning and applying bioinformatics techniques in my research into bioremediation of polychlorinated biphenyls (PCBs). 
 - 🌱 I’m currently learning how to effetively analyze and visualize data obtained via next-generation sequencing (NGS) mainly using R with a bit of 
 Python and Linux mixed in.
